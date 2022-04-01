@@ -1,0 +1,14 @@
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.my-form {
+    width: 500px;
+    background: rgb(201, 137, 186);
+}
+.registration {
+    width: 800px;
+    background: rgb(201, 137, 186);
+}

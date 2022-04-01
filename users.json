@@ -1,0 +1,12 @@
+{
+    "firstName": "Fred",
+    "lastName": "Sammy",
+    "isNigerian": true,
+    "age": 35,
+    "data": {
+        "email": "fredsammy@gmail.com",
+        "password": 56789
+    }
+}
+
+
